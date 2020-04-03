@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
-import Game from './components/Game'
+// eslint-disable-next-line import/extensions
+import Game from './components/Game.jsx';
 
 function App() {
   return (
